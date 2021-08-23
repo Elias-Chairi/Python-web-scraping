@@ -1,7 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
 import csv
-#Selenium brukes til å trykke på ting, men da må du ha chromedriver og path å shit
 
 page = requests.get("https://f21.vgs.no")
 soup = BeautifulSoup(page.text, 'html.parser')
