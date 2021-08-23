@@ -1,5 +1,7 @@
 # Python-web-scraping
 
+Dette er et program som sjekker om det har kommet ett nytt oppslag på skolens nettside.
+
 Fungerer slik:
   * Den sjekker det nyeste oppslaget på https://f21.vgs.no
   * Skriver ned overskriften til en csv fil
