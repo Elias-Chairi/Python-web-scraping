@@ -1,4 +1,4 @@
-# Python-web-scraping
+# Web-scraping-av-f21.vgs.no
 
 Dette er et program som sjekker om det har kommet ett nytt oppslag på skolens nettside.
 
